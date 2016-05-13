@@ -10,3 +10,5 @@ run from source
   3. click the 'run' button
   
 Add the track you want to visualise to the sketch's 'music/' directory, edit the source to the file's filename.
+
+Processing has an 'export application' function that creates an executable if you want. 
